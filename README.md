@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, my name is Jackson 👋
+
+As a rising student at the University of Alabama, many of my projects can be found here. I am very interested in collaborating on projects, so feel free to reach out! 😊
 
 <!--
 **Travvv/Travvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
